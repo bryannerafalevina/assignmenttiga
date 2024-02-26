@@ -1,0 +1,27 @@
+{
+  "bookings": [
+    {
+      "id": "7cd2",
+      "name": "Bryanne Rafa Levina",
+      "email": "brafalevinaa06@gmail.com",
+      "date": "2000-06-10",
+      "time": "09:00",
+      "guests": 1
+    },
+    {
+      "id": "7d41",
+      "name": "dwb",
+      "email": "brafalevinaa06@gmail.com",
+      "date": "3333-01-02",
+      "time": "09:03",
+      "guests": 1
+    }
+  ],
+  "dishes": [
+    {
+        "name":"burger",
+        "price":"100000",
+        "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mcdonalds.co.id%2Fmenu%2Fchicken-burger-deluxe&psig=AOvVaw1V27DY2FnqdoJE2Fo1NYV1&ust=1709027203674000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJC5z8zcyIQDFQAAAAAdAAAAABAE"
+      }
+  ]
+}
